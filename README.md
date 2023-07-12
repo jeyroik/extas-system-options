@@ -1,6 +1,6 @@
 ![tests](https://github.com/jeyroik/extas-system-options/workflows/PHP%20Composer/badge.svg?branch=master&event=push)
 ![codecov.io](https://codecov.io/gh/jeyroik/extas-system-options/coverage.svg?branch=master)
-
+<a href="https://codeclimate.com/github/jeyroik/extas-system-options/maintainability"><img src="https://api.codeclimate.com/v1/badges/b80afe266c240615195e/maintainability" /></a>
 [![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-system-options/v)](//packagist.org/packages/jeyroik/extas-system-options)
 [![Total Downloads](https://poser.pugx.org/jeyroik/extas-system-options/downloads)](//packagist.org/packages/jeyroik/extas-system-options)
 [![Dependents](https://poser.pugx.org/jeyroik/extas-system-options/dependents)](//packagist.org/packages/jeyroik/extas-system-options)
